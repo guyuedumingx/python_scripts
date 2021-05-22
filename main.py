@@ -92,7 +92,7 @@ class Member:
 
 
 xh = 191543430
-pwd = "76750jww"
+pwd = "*******"
 data = Data(xh, pwd)        
 
 info = data.get_kc_data_by_xh(xh)
